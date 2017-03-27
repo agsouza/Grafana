@@ -10,7 +10,7 @@
 
 ############################################## INÍCIO DA  INSTALAÇÃO DO GRAFANA ##############################################
 # Instalando o Grafana
-yum install -y https://grafanarel.s3.amazonaws.com/builds/grafana-4.0.0-1480439068.x86_64.rpm
+yum install -y https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana-4.2.0-1.x86_64.rpm
 
 # Iniciando o serviço
 service grafana-server start
