@@ -5,6 +5,7 @@
 # Update Log:
 # 20161012 - Inicio da criação do script de instalação do Grafana 
 # 20161201 - Atualização do script para a instalação do Grafana 4.0
+# 20172703 - Atualização do script para a instalação do Grafana 4.2
 # UNICAMP-CCUEC-DPROD-OPER 2016 
 
 
